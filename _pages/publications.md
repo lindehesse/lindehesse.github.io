@@ -26,7 +26,7 @@ in healthy fetusses.** in International Society of Ultrasound in Obstetrics and 
 [\*]: Indicates equal contribution
 
 - **Linde S. Hesse**, Moska Aliasi, Aris T. Papageorghiou, Monique C. Haak, Weidi Xie, Mark Jenkinson, and Ana I.L. Namburete. **Few-shot subcortical brain structure segmentation in 3D fetal brain ultrasound** in Organisation for Human Brain Mapping (OHBM), 2021. 
-[[project page]](https://lindehesse.github.io/FetalSubcortSegm/) [[poster]](https://lindehesse.github.io/FetalSubcortSegm/resources/PosterDesign_Final2.pdf) *accepted for poster presentation*
+[[project page]](https://lindehesse.github.io/FetalSubcortSegm/) [[poster]](https://lindehesse.github.io/FetalSubcortSegm/resources/PosterDesign_Final2.pdf) *Accepted for poster presentation*
 
 
 
