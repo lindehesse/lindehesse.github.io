@@ -10,6 +10,8 @@ author_profile: true
 You can also find my published work on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
 
 ## Publications
+- **Linde S. Hesse**\*, Madeleine K. Wyburd\*, Moska Aliasi, Mark Jenkinson, Aris T. Papageorghiou, Monique C. Haak and Ana I.L. Namburete. **Assessment of Regional Cortical Developmentthrough Fissure Based Gestational AgeEstimation in 3D Fetal Ultrasound** in Preterm, Perinatal and Paediatric Image Analysis (PIPPI), satellite event of Medical Image Computingand Computer Assisted Intervention society (MICCAI), 2021. *Accepted for oral presentation*
+
 
 - **Linde S. Hesse**, Grey Kuling, Mitko Veta, and Anne I. Martel. **Intensity augmentation to improve generalizability of breast segmentation across different MRI scan protocols** in IEEE Transactions on Biomedical Engineering, 2020. [[Link]](https://ieeexplore.ieee.org/abstract/document/9166708)
 
