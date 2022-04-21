@@ -11,7 +11,7 @@ You can also find my published work on <u><a href="{{site.author.googlescholar}}
 
 ## Publications
 
-- **Linde S. Hesse**, Moska Aliasi, Felipe Moser, the INTERGROWTH-21st Consortium, Monique C. Haak, Weidi Xie, Mark Jenkinson, and Ana I.L. Namburete. **Subcortical segmentation of the fetal brain in 3D ultrasound using deep learning.** in NeuroImage, 2022 [[Link]](https://www.sciencedirect.com/science/article/pii/S1053811922002452)[[project page]](https://lindehesse.github.io/FetalSubcortSegm/) 
+- **Linde S. Hesse**, Moska Aliasi, Felipe Moser, the INTERGROWTH-21st Consortium, Monique C. Haak, Weidi Xie, Mark Jenkinson, and Ana I.L. Namburete. **Subcortical segmentation of the fetal brain in 3D ultrasound using deep learning** in NeuroImage, 2022 [[Link]](https://www.sciencedirect.com/science/article/pii/S1053811922002452)[[project page]](https://lindehesse.github.io/FetalSubcortSegm/) 
 
 - **Linde S. Hesse**\*, Madeleine K. Wyburd\*, Moska Aliasi, Mark Jenkinson, Aris T. Papageorghiou, Monique C. Haak and Ana I.L. Namburete. **Assessment of Regional Cortical Development through Fissure Based Gestational Age Estimation in 3D Fetal Ultrasound** in Preterm, Perinatal and Paediatric Image Analysis (PIPPI), satellite event of Medical Image Computing and Computer Assisted Intervention society (MICCAI), 2021. *Accepted for oral presentation.* [[link]](https://link.springer.com/chapter/10.1007%2F978-3-030-87735-4_23) 
 
