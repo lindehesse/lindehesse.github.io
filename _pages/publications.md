@@ -11,7 +11,7 @@ You can also find my published work on <u><a href="{{site.author.googlescholar}}
 
 ## Publications
 
-- **Linde S. Hesse**, and Ana I.L. Namburete. **INSightR-Net: Interpretable Neural Network for Regression using Similarity-based Comparisons to Prototypical Examples.** arXiv preprint arXiv:2208.00457, 2022. * Accepted for publication at MICCAI 2022*
+- **Linde S. Hesse**, and Ana I.L. Namburete. **INSightR-Net: Interpretable Neural Network for Regression using Similarity-based Comparisons to Prototypical Examples** arXiv preprint arXiv:2208.00457, 2022. *Accepted for publication at MICCAI 2022* [[link]](https://arxiv.org/pdf/2208.00457.pdf)
 
 - **Linde S. Hesse**, Moska Aliasi, Felipe Moser, the INTERGROWTH-21st Consortium, Monique C. Haak, Weidi Xie, Mark Jenkinson, and Ana I.L. Namburete. **Subcortical segmentation of the fetal brain in 3D ultrasound using deep learning** in NeuroImage, 2022 [[link]](https://www.sciencedirect.com/science/article/pii/S1053811922002452) [[project page]](https://lindehesse.github.io/FetalSubcortSegm/) 
 
